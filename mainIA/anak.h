@@ -3,3 +3,4 @@
 #define ANAK_H
 
 class anak {
+public:
